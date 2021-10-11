@@ -24,7 +24,7 @@ function inputTodo() {
         list.innerHTML = element
 
         if(element === '') { 
-            alert('isi dulu cuyy'.toUpperCase())
+            alert('isi dulu woy'.toUpperCase())
             return false
         }
     }
